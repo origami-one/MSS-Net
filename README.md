@@ -1,1 +1,1 @@
-# MICCAI-2026-MSS-Net
+# MSS-Net
